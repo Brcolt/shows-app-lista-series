@@ -1,5 +1,5 @@
 # shows-app-lista-series
-Aplicação para lista de séries e informações sobre as mesmas.
+Application for list of series and information about them.
 
 ## Download dependencies:
 The app was created with the `expo-cli`, the dependecies are in package.json, to instal run `npm install`
